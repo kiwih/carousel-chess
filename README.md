@@ -10,6 +10,7 @@ It is the answer to the deeply important question "How can you play chess with 5
 Players are randomly divided onto three teams, *White*, *Black*, and *Stalemate* (only one player is on the Stalemate team). Players must not reveal the evidence to other players what team they are on (think Mafia) although it is permissible to talk about which team you are on (as a bluff or in truth).
 
 As play progresses, pieces will be taken by players. Players should tally the value of the pieces they take using the [most common assignment values](https://en.wikipedia.org/wiki/Chess_piece_relative_value). 
+  * That is, Pawn: 1, Knight: 3, Bishop: 3, Rook: 5, Queen: 9
 
 If a checkmate should occur, that player is assigned 10 points, and the winning colour gets a bonus 5 points. If a stalemate occurs, the *Stalemate* player automatically wins the game. Note that it is possible for the *Stalemate* player to make the checkmate and still win.
 
