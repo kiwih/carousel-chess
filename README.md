@@ -3,7 +3,8 @@
 #### *A game of intrigue and chaos.*
 
 Carousel chess is an adaptation of the rules of chess to create a play-style which supports any odd number of players.
-It solved our problem of "How can we play chess with 5 players?"
+
+It is the answer to the deeply important question "How can you play chess with 5 players?"
 
 ##Overview
 Players are randomly divided onto three teams, *White*, *Black*, and *Stalemate* (only one player is on the Stalemate team). Players must not reveal the evidence to other players what team they are on (think Mafia) although it is permissible to talk about which team you are on (as a bluff or in truth).
