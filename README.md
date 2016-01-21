@@ -7,9 +7,12 @@ Carousel chess is an adaptation of the rules of chess to create a play-style whi
 It is the answer to the deeply important question "How can you play chess on one board with 5 players?"
 
 ##Overview
-At the beginning of the game, put N/2 (rounding down) pieces of paper with *White*, N/2 (rounding down) pieces of paper with *Black*, and 1 piece of paper with *Draw* in a hat.
-Each player pulls a piece of paper from the hat, and keeps it secret to themselves. Therefore there is a *white* team, a *black* team, and a *draw* team, but no one knows who else is on their team. Players must not reveal the evidence to other players what team they are on (think Mafia) although it is permissible to talk about which team you are on (as a bluff or in truth).
-If there are an even number of players, there should be one piece of paper left in the hat which should be discarded without being shown to the players.
+At the beginning of the game, you need to divide the players randomly into three teams, *White*, *Black*, and *Draw*.  
+This needs to be done in such a manner that nobody except for the players themselves know for certain which team they are on.  
+For instance, put [with N = your number of players] N/2 (rounding down) pieces of paper with *White*, N/2 (rounding down) pieces of paper with *Black*, and 1 piece of paper with *Draw* in a hat.  
+Each player pulls a piece of paper from the hat, and keeps it secret to themselves. Therefore there is a *White* team, a *Black* team, and a *Draw* team, but no one knows for certain who else is on their team. Players must not reveal the evidence to other players what team they are on (think [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) although it is permissible to talk about which team you are on (as a bluff or in truth). Players must then choose whether or not to believe you.  
+
+This game works best with an odd number of players, but it is possible to play it with an even number. If this is the case, leave one piece of paper in the hat and discard it without showing it to the players.
 
 As play progresses, pieces will be taken by players. Players should tally the value of the pieces they take using the [generally accepted piece values](https://en.wikipedia.org/wiki/Chess_piece_relative_value). 
   * Pawn: 1, Knight: 3, Bishop: 3, Rook: 5, Queen: 9
@@ -30,11 +33,11 @@ Once a check-mate occurs, the true alignments of each player are revealed to the
   * If a player has the *White* alignment but is moving for the Black colour on the board, they could choose to do a bad move to disadvantage that team (but they don't have to, as they might be trying to hide their alignment).
   * This should work out that each player will end up moving for black, then for white, then for black, etc...
   * This is the *Carousel*
-  * If there are an even number of players, a random player should skip their turn each round.
   * When a player captures a piece, they keep the piece in front of them.
   * If a previously captured piece needs to be used for pawn promotion purposes, then some token should be left with the player to indicate that they had that piece (so they still get the points at the end).
   * When a pawn is promoted, the player who promoted the pawn gets to keep the pawn.
   * We recommend using some marker to indicate the colour of the current move (i.e. white's move or black's move).
+  * If it is the case that you are playing with an even number of players, a random player (decided by dice throw) should skip their turn each round.
 4. Play continues until either a stalemate or a checkmate occurs.
 
 5. If it is a stalemate, the *Draw* player receives 100 points (and essentially wins the game).
