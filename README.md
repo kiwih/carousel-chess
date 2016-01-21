@@ -58,7 +58,7 @@ Board Turn | Who moves White? | Who moves Black?
 5. | John | Jake
 6. | etc... | etc...
 
-If at any point the game reaches stalemate, John wins as he has the draw affinity.
+If at any point the game reaches stalemate, John will likely win as he has the draw affinity and this gives him 100 points.
 
 Otherwise, let's say Jane checkmates for a White victory. On her turns, she has captured three rooks (two blacks and a white) as well as three pawns of mixed colours.
 
