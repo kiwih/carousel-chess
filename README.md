@@ -62,11 +62,15 @@ If at any point the game reaches stalemate, John will likely win as he has the d
 
 Otherwise, let's say Jane checkmates for a White victory. On her turns, she has captured three rooks (two blacks and a white) as well as three pawns of mixed colours.
 
-Her total score is `15 (Rooks) + 3 (Pawns) + 10 (Checkmate)`.
+Her total score is `15 (Rooks) + 3 (Pawns) + 10 (Checkmate) + 5 (White victory)`.
 
-Jake has captured a Queen and two knights so his total score is `9 (Queen) + 6 (Knights)`.
+Jake has captured a Queen and two knights so his total score is `9 (Queen) + 6 (Knights) + 5 (White victory)`.
 
-Notice that it is possible for a team not to win even though their colour on the board wins. In addition, it is possible for the *Draw* player to win even though the game may not finish with a stalemate.
+Jeremy, as he is on the Black team, only gets points for pieces he captured. He has taken three pawns and a bishop so his score is `3 (Pawns) + 3 (Bishop)`
+
+And so forth.
+
+Notice that it is possible for a player not to win even though they might do the checkmating move. In addition, it is possible for the *Draw* player to win even though the game may not finish with a stalemate.
 
 ##Notes
 
