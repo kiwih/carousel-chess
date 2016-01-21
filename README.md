@@ -54,9 +54,13 @@ Board Turn | Who moves White? | Who moves Black?
 If at any point the game reaches stalemate, John wins as he has the stalemate affinity.
 
 Otherwise, let's say Jane checkmates for a White victory. On her turns, she has captured three rooks (two blacks and a white) as well as three pawns of mixed colours.
+
 Her total score is `15 (Rooks) + 3 (Pawns) + 10 (Checkmate)`.
+
 Jake has captured a Queen and two knights so his total score is `9 (Queen) + 6 (Knights)`.
-Their total combined score for *White* is `28 (Jane) + 15 (Jake) + 5 (White victory)`.
+
+Their total combined score for *White* is thus `28 (Jane) + 15 (Jake) + 5 (White victory)`.
+
 
 Notice that it is possible for a team not to win even though their colour on the board wins. In addition, it is possible for the *Stalemate* player to win even though the game may not finish with a stalemate.
 
