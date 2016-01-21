@@ -16,7 +16,7 @@ As play progresses, pieces will be taken by players. Players should tally the va
 
 If a checkmate should occur, that player is assigned 10 points, and the winning colour gets a bonus 5 points. If a stalemate occurs, the *Draw* player automatically wins the game. Note that it is possible for the *Draw* player to make the checkmate and still win.
 
-Once a check-mate occurs, the true alignments of each player are revealed to the group, and the teams are scored together. The winning score wins.
+Once a check-mate occurs, the true alignments of each player are revealed to the group. The highest score wins.
 
 ##Playing the game
 
@@ -29,6 +29,8 @@ Once a check-mate occurs, the true alignments of each player are revealed to the
   * If a player has the *White* alignment but is moving for the Black colour on the board, they could choose to do a bad move to disadvantage that team (but they don't have to, as they might be trying to hide their alignment).
   * This should work out that each player will end up moving for black, then for white, then for black, etc...
   * This is the *Carousel*
+  * If there are an even number of players, a random player should skip their turn each round.
+  
   * When a player captures a piece, they keep the piece in front of them. 
   * If a previously captured piece needs to be used for pawn promotion purposes, then some token should be left with the player to indicate that they had that piece (so they still get the points at the end).
   * When a pawn is promoted, the player who promoted the pawn gets to keep the pawn.
