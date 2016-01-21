@@ -14,7 +14,7 @@ If there are an even number of players, there should be one piece of paper left 
 As play progresses, pieces will be taken by players. Players should tally the value of the pieces they take using the [generally accepted piece values](https://en.wikipedia.org/wiki/Chess_piece_relative_value). 
   * Pawn: 1, Knight: 3, Bishop: 3, Rook: 5, Queen: 9
 
-If a checkmate should occur, that player is assigned 10 points, and the winning colour gets a bonus 5 points. If a stalemate occurs, the *Draw* player automatically wins the game. Note that it is possible for the *Stalemate* player to make the checkmate and still win.
+If a checkmate should occur, that player is assigned 10 points, and the winning colour gets a bonus 5 points. If a stalemate occurs, the *Draw* player automatically wins the game. Note that it is possible for the *Draw* player to make the checkmate and still win.
 
 Once a check-mate occurs, the true alignments of each player are revealed to the group, and the teams are scored together. The winning score wins.
 
