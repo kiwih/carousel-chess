@@ -25,18 +25,20 @@ Once a check-mate occurs, the true alignments of each player are revealed to the
   * Players cannot show evidence for what team they are on, but it is permissible to talk about it
 
 2. Determine randomly which player should start the game. They will open with a white move. The game follows normal FIDE rules, other than the turns.
+
 3. Play then progresses around the group, with each player making an appropriate move based on the state of the board, not on their team alignment.
   * If a player has the *White* alignment but is moving for the Black colour on the board, they could choose to do a bad move to disadvantage that team (but they don't have to, as they might be trying to hide their alignment).
   * This should work out that each player will end up moving for black, then for white, then for black, etc...
   * This is the *Carousel*
   * If there are an even number of players, a random player should skip their turn each round.
-  
-  * When a player captures a piece, they keep the piece in front of them. 
+  * When a player captures a piece, they keep the piece in front of them.
   * If a previously captured piece needs to be used for pawn promotion purposes, then some token should be left with the player to indicate that they had that piece (so they still get the points at the end).
   * When a pawn is promoted, the player who promoted the pawn gets to keep the pawn.
   * We recommend using some marker to indicate the colour of the current move (i.e. white's move or black's move).
 4. Play continues until either a stalemate or a checkmate occurs.
+
 5. If it is a stalemate, the *Draw* player receives 100 points (and essentially wins the game).
+
 6. If it is a checkmate, award 10 points to the player that made the move, and 5 points for each player on the team for the colour that won.
   * It is possible for a player to checkmate but not win the game!
 7. The individual with the highest score wins.
