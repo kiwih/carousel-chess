@@ -41,6 +41,7 @@ Once a check-mate occurs, the true alignments of each player are revealed to the
 
 6. If it is a checkmate, award 10 points to the player that made the move, and 5 points for each player on the team for the colour that won.
   * It is possible for a player to checkmate but not win the game!
+
 7. The individual with the highest score wins.
 
 ##Example of play
