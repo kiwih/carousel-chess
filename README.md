@@ -10,7 +10,7 @@ It is the answer to the deeply important question "How can you play chess on one
 At the beginning of the game, you need to divide the players randomly into three teams, *White*, *Black*, and *Draw*.  
 This needs to be done in such a manner that nobody except for the players themselves know for certain which team they are on.  
 For instance, put [with N = your number of players] N/2 (rounding down) pieces of paper with *White*, N/2 (rounding down) pieces of paper with *Black*, and 1 piece of paper with *Draw* in a hat.  
-Each player pulls a piece of paper from the hat, and keeps it secret to themselves. Therefore there is a *White* team, a *Black* team, and a *Draw* team, but no one knows for certain who else is on their team. Players must not reveal the evidence to other players what team they are on (think [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) although it is permissible to talk about which team you are on (as a bluff or in truth). Players must then choose whether or not to believe you.  
+Each player pulls a piece of paper from the hat, and keeps it secret to themselves. Therefore there is a *White* team, a *Black* team, and a *Draw* team, but no one knows for certain who else is on their team. Players must not reveal the evidence to other players what team they are on (think [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game))) although it is permissible to talk about which team you are on (as a bluff or in truth). Players must then choose whether or not to believe you.  
 
 This game works best with an odd number of players, but it is possible to play it with an even number. If this is the case, leave one piece of paper in the hat and discard it without showing it to the players.
 
